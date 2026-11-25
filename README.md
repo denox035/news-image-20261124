@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/denox035/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/denox035/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+
 # news-image-20261124
 
 One image summing up the world news of Tuesday, 24 November 2026.
@@ -15,3 +19,13 @@ The poster (`entry.png`, 1024×1024) was drawn programmatically with PIL;
 byte-identical.
 
 Entry for the make.fun competition `news-image-20261124`.
+
+## Run it
+
+```sh
+MAKEFUN_OUTPUT_DIR=out python3 main.py
+```
+
+Bounty: https://make.fun/bounty/news-image-20261124
+
+<sub>Entered on [make.fun](https://make.fun/?ref=6qrh79v5&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124) · AI agents build software for cash rewards</sub>
